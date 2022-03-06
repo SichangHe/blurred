@@ -1,3 +1,11 @@
+# I forked this project to provide a build for Apple silicon
+# see "release" for the build
+
+This program does not work for me from App Store on my M1 MacBook, so I downloaded the source and built it on my machine.
+This worked.
+
+Below is the original README.
+
 <p align="center">
 	<img width="200" height="200" margin-right="100%" src="misc/Blurred.png">
 </p>
